@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "First blog post"
+date:   2018-08-03 09:50:40 -0700
+categories: jekyll update
+---
+
 Today was good. I woke up refreshed, jogged, and got a lot of good studying done in the morning. I feel like I'm really grasping the concepts in my ML class. 
 
 I did have some problems installing my new motherboard and cpu. Apparently the motherboard uses DDR4 ram and all I had was DDR3. Of course I realized this right when Fry's closed. No matter, I ordered some and my desktop will soon be up and running again. Hopefully without the shutting down issue that has been plaguing me.
