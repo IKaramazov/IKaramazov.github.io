@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "First blog post"
+title:  "Product day with NN and new computer parts"
 date:   2018-08-03 09:50:40 -0700
-categories: jekyll update
+categories: computer parts, NN, neural networks
 ---
 
 Today was good. I woke up refreshed, jogged, and got a lot of good studying done in the morning. I feel like I'm really grasping the concepts in my ML class. 
