@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Productive day with NN and new computer parts"
-date:   2018-08-03 09:50:40 -0700
+date:   2018-08-04 22:50:40 -0700
 categories: computer parts, NN, neural networks
 ---
 
