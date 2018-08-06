@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reading an article and a trip to the art museum"
-date:   2018-08-04 08:50:40 -0700
+date:   2018-08-05 08:50:40 -0700
 categories: art museum, articles
 ---
 
