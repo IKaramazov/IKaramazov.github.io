@@ -12,3 +12,5 @@ I feel so relieved. I've even read a little more in my Deep Learning book which 
 There might be some changes that I still need to implement on my Dog Breed Classifier but I am hopeful that those will be simple to do.
 
 I find out in about a half hour whether I'll have to serve jury duty this week. Hopefully not, as I have an appointment to see a fiduciary lawyer tomorrow. I'm not looking forward to that but it will be even more of a pain if I need to reschedule. 
+
+Update: My project passed! On to the next one :).
