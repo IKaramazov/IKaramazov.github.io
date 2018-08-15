@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Trying to stay focused today"
-date:   2018-08-14 12:16:40 -0700
+date:   2018-08-15 12:16:40 -0700
 categories: Deep Learning, Udacity, mental health, TV scripts
 ---
 Yesterday was tough. I was anxious before the meeting with the lawyer. I tried to do this breathing technique that my therapist suggested but I think it works better when you have racing thoughts. This time what I was feeling was more physical than mental. I think that it made it a bit worse actually.
