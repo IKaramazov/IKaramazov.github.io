@@ -2,7 +2,7 @@
 layout: post
 title:  "Walked on the Golden Gate Bridge today"
 date:   2018-08-19 21:06:40 -0700
-categories: Golden Gate Bridge, Running, Walking
+categories: Golden Gate Bridge, Running, Walking, Deep Learning, Probability Theory
 ---
 
 This morning I drove to the Golden Gate Bridge. I've actually never walked or biked across. I guess that's common when you grow up in the area.
@@ -17,7 +17,7 @@ Things liven up a lot around 7AM. There were two policemen driving on the path a
 
 I did study a lot today but mostly reading and not much working on problems. Unfortunately I've been distracted. I'll have to read the last ten pages of Probability Theory again. I don't think I absorbed it all that well. 
 
-I am very excited to learn more about the Bayesian approach. I feel like I've only been exposed to the frequentist view and it never sat well with me. It seemed like I was memorizing while this seems more like a consistent system that I learn to apply. We will see.
+I am very excited to learn more about the Bayesian approach. I feel like I've only been exposed to the frequentist view and it never sat well with me. It seemed like I was memorizing while this seems more like a consistent system that I can learn to apply. We will see.
 
 In Deep Learning I started the section on Bias, Variance, MSE, and the start of Maximum Likelyhood Theory. I had to stop though. I felt like I wasn't absorbing it either and I want to understand Maximum Likelyhood well.
 
